@@ -33,4 +33,8 @@ npx expo start
 
 Download Expo GO, APP available on Apple Store and Play Store
 
-In expo select the option to read QRCode and read the QRCode available in the project terminal after running npx ***expo start***
+In expo select the option to read QRCode and read the QRCode available in the project terminal after running
+
+```
+npx expo start
+```
